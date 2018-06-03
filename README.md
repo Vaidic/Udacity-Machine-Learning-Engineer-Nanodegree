@@ -9,8 +9,7 @@ Notes Exercises and Assignments for [Udacity Machine Learning Engineer Nanodegre
 
 ### Machine Learning Basics
 
-- [x] [Coursework - GridSearch - Model Selection](/Machine Learning Basics/coursework/Grid_Search_Lab.ipynb)
-
+- [x] [Coursework - GridSearch - Model Selection](/Machine-Learning-Basics/coursework/Grid_Search_Lab.ipynb)
 
 
 ### Machine Learning Advanced

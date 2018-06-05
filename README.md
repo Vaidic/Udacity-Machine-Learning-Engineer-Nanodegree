@@ -9,8 +9,14 @@ Notes Exercises and Assignments for [Udacity Machine Learning Engineer Nanodegre
 
 ### Machine Learning Basics
 
-- [x] [Coursework - GridSearch - Model Selection](/Machine-Learning-Basics/coursework/Grid_Search_Lab.ipynb)
-
+- [x] [ Coursework - GridSearch]('/Machine-Learning-Basics/coursework/Grid_Search_Lab.ipynb')
+- [x] [ Coursework - Bayesian_Inference]('/Machine-Learning-Basics/coursework/Bayesian_Inference.ipynb') 
+- [x] [ Coursework - Decision Tree]('/Machine-Learning-Basics/coursework/Decision_Tree.ipynb') 
+- [x] [ Coursework - Linear Regression]('/Machine-Learning-Basics/coursework/LR_bmi_life_data.ipynb')
+- [x] [ Coursework - SVM]('/Machine-Learning-Basics/coursework/SVM.ipynb') 
+- [x] [ Coursework - Titanic Survival Exploration]('/Machine-Learning-Basics/coursework/titanic_survival_exploration.ipynb')
+- [x] [ **Project** -  CharityML - Finding Donors]('/Machine-Learning-Basics/projects/finding_donors/')
 
 ### Machine Learning Advanced
 
+ 

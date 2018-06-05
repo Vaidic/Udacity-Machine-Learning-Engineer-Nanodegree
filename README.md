@@ -15,9 +15,12 @@ Notes Exercises and Assignments for [Udacity Machine Learning Engineer Nanodegre
 - [x] [ Coursework - Linear Regression](/Machine-Learning-Basics/coursework/LR_bmi_life_data.ipynb)
 - [x] [ Coursework - SVM](/Machine-Learning-Basics/coursework/SVM.ipynb) 
 - [x] [ Coursework - Titanic Survival Exploration](/Machine-Learning-Basics/coursework/titanic_survival_exploration.ipynb)
-- [x] [ **Project** -  CharityML - Finding Donors](/Machine-Learning-Basics/projects/finding_donors/)
+- [x] [ **Project** -  CharityML - Finding Donors](/Machine-Learning-Basics/projects/finding_donors/) || [_Project Review_](https://review.udacity.com/#!/reviews/1262624/shared) 
 
 - [x] [ Mini-Project - K-Mean Clustering](/Machine-Learning-Basics/coursework/k-means.ipynb)
+- [x] [ Coursework - Hierarchical Clustering](/Machine-Learning-Basics/coursework/Hierarchical_Clustering.ipynb)
+- [x] [ Coursework - DBSCAN Clustering](/Machine-Learning-Basics/coursework/DBSCAN.ipynb)
+- [x] [ Coursework - GMM Clustering and Cluster Validation](/Machine-Learning-Basics/coursework/GMM.ipynb)
 
 
 ### Machine Learning Advanced

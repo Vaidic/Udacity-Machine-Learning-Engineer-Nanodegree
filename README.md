@@ -17,6 +17,9 @@ Notes Exercises and Assignments for [Udacity Machine Learning Engineer Nanodegre
 - [x] [ Coursework - Titanic Survival Exploration](/Machine-Learning-Basics/coursework/titanic_survival_exploration.ipynb)
 - [x] [ **Project** -  CharityML - Finding Donors](/Machine-Learning-Basics/projects/finding_donors/)
 
+- [x] [ Mini-Project - K-Mean Clustering](/Machine-Learning-Basics/coursework/k-means.ipynb)
+
+
 ### Machine Learning Advanced
 
  

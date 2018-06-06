@@ -22,6 +22,9 @@ Notes Exercises and Assignments for [Udacity Machine Learning Engineer Nanodegre
 - [x] [ Coursework - DBSCAN Clustering](/Machine-Learning-Basics/coursework/DBSCAN.ipynb)
 - [x] [ Coursework - GMM Clustering and Cluster Validation](/Machine-Learning-Basics/coursework/GMM.ipynb)
 - [ ] [ Mini-Project - PCA - Faces recognition example using eigenfaces and SVMs](/Machine-Learning-Basics/coursework/PCA.ipynb)
+- [x] [ Coursework - ICA](/Machine-Learning-Basics/coursework/ICA.ipynb)
+
+- [x] [ **Project** - Creating Customer Segments](/Machine-Learning-Basics/projects/customer_segments) || [_Project Review_]() 
 
 
 ### Machine Learning Advanced

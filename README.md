@@ -29,4 +29,5 @@ Notes Exercises and Assignments for [Udacity Machine Learning Engineer Nanodegre
 
 ### Machine Learning Advanced
 
+ - [x] [ Coursework - Gradient Descent](/Machine-Learning-Advanced/coursework/GradientDescent.ipynb)
  

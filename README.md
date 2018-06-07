@@ -29,5 +29,8 @@ Notes Exercises and Assignments for [Udacity Machine Learning Engineer Nanodegre
 
 ### Machine Learning Advanced
 
- - [x] [ Coursework - Gradient Descent](/Machine-Learning-Advanced/coursework/GradientDescent.ipynb)
- 
+- [x] [ Coursework - Gradient Descent](/Machine-Learning-Advanced/coursework/GradientDescent.ipynb)
+- [x] [ Coursework - XOR using Neural Network](/Machine-Learning-Advanced/coursework/XOR.ipynb)
+- [x] [ Coursework - Predicting Student's Admission Status](/Machine-Learning-Advanced/coursework/StudentAdmissionsKeras.ipynb)
+- [x] [ Coursework - Sentiment analysis of IMDB data using Keras](/Machine-Learning-Advanced/coursework/IMDB_In_Keras.ipynb)
+

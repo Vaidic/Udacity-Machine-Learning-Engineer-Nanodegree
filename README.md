@@ -35,3 +35,7 @@ Notes Exercises and Assignments for [Udacity Machine Learning Engineer Nanodegre
 - [x] [ Coursework - Sentiment analysis of IMDB data using Keras](/Machine-Learning-Advanced/coursework/IMDB_In_Keras.ipynb)
 - [x] [ Coursework - NN to recognize digits from MNIST dataset](/Machine-Learning-Advanced/coursework/mnist_mlp.ipynb)
 - [x] [ Coursework - Convolutional Neural Networks ](/Machine-Learning-Advanced/coursework/conv_visualization.ipynb)
+- [x] [ Coursework - Classifying CIFAR-10 dataset using MLP](/Machine-Learning-Advanced/coursework/cifar10_mlp.ipynb)
+- [x] [ Coursework - Classifying CIFAR-10 dataset using CNN](/Machine-Learning-Advanced/coursework/cifar10_cnn.ipynb)
+- [x] [ Coursework - Classifying CIFAR-10 dataset with augmented data using CNN](/Machine-Learning-Advanced/coursework/cifar10_augmentation.ipynb)
+

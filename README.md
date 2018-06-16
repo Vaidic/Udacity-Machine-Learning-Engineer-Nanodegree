@@ -38,4 +38,10 @@ Notes Exercises and Assignments for [Udacity Machine Learning Engineer Nanodegre
 - [x] [ Coursework - Classifying CIFAR-10 dataset using MLP](/Machine-Learning-Advanced/coursework/cifar10_mlp.ipynb)
 - [x] [ Coursework - Classifying CIFAR-10 dataset using CNN](/Machine-Learning-Advanced/coursework/cifar10_cnn.ipynb)
 - [x] [ Coursework - Classifying CIFAR-10 dataset with augmented data using CNN](/Machine-Learning-Advanced/coursework/cifar10_augmentation.ipynb)
+- [x] [ Coursework - Classifying CIFAR-10 dataset with augmented data using CNN](/Machine-Learning-Advanced/coursework/cifar10_augmentation.ipynb)
+- [ ] [ Mini-Project - Visually diagnose skin cancer ](/Machine-Learning-Advanced/coursework/dermatologist-ai)
+- [x] [ **Project** - NN models for classification for classification of Dog Breeds](/Machine-Learning-Advanced/projects/) || [_Project Review_](https://review.udacity.com/#!/reviews/1283298/shared) 
+
+- [x] [ Coursework - Dynamic Programing towards building Reinforcement Learning Models](/Machine-Learning-Advanced/coursework/Dynamic_Programming.ipynb)
+
 
